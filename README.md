@@ -42,7 +42,7 @@ streamlit run src/nlp_bot.py
 
 3. To run the second approach bot, use the below command.
 
-4. After successful run, a link  http://localhost:8501 will be opened in your default browser.
+4. After successful run, a link similar to this http://localhost:8501 will be opened in your default browser.
 
 streamlit run src/llm_rag_chatbot.py
 ## Extended Implementations
