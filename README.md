@@ -11,7 +11,7 @@ Diabetes
 
 ## Project Summary
 
-Build a chatbot that answers nutrition-related questions for people with diabetes using a provided FAQ dataset.
+This is a chatbot that answers nutrition-related questions for people with diabetes using a provided FAQ dataset.
 
 ## Approaches
 Approaches:
